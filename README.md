@@ -1,8 +1,8 @@
 # Portfolio
 This portfolio includes a variety of undergraduate, personal, and professional projects.
 
-## [Duke Energy: Statistical Modeling for customer energy usage (R)](https://github.com/ddemo829/Duke-Energy-Statistical-Modeling-R)
-My work experience with Duke Energy involved collaborating with my team to develop statistical models for approximately 200 of Duke Energy's customers (~8600 observations per customer; ~1700000 observations total) around the state of North Carolina in order to target inefficient HVAC systems. This project involved:
+## [Duke Energy: Statistical Modeling For Customer Energy Usage (R)](https://github.com/ddemo829/Duke-Energy-Statistical-Modeling-R)
+My work experience with Duke Energy involved collaborating with my team to develop statistical models for approximately 200 of Duke Energy's customers (~8,600 observations per customer; ~1,700,000 observations total) around the state of North Carolina in order to target inefficient HVAC systems. This project (written in R) involved:
 
 * Modeling hourly customer kWh usage between September 2021 and September 2022 against key explanatory variables sucn as outdoor temperature and date-time, along with a variety of variable transformations.
 * Wrangling customer data to maintain strong data integrity.
@@ -20,4 +20,9 @@ My work experience with Ace Industrial Supply involved programming Excel macros 
 * Delivering exported data to supervisor.
 
 ## [The Effects of Visual and Auditory Cues on Human Reaction Time (SAS)](https://github.com/ddemo829/The-Effects-of-Visual-and-Auditory-Cues-on-Human-Reaction-Time-SAS)
+The goal of this undergraduate project for my team and I was to showcase our understanding of Analysis of Variance (ANOVA), contrasts, confidence intervals, and experimental design. This project (written in SAS) involved:
+
+* Handwriting and interpreting a "decomposition diagram" to visualize segments of variation among blocks, factor levels, and residuals. We then referenced the ANOVA table in SAS's proc glm to verify our calculations.
+* Interpreting ANOVA F statistic, family wise confidence intervals, and contrasts.
+* In a presentation, explaining the complexities of experimental design to a non-technical audience.
 
