@@ -10,13 +10,15 @@ My work experience with Duke Energy involved collaborating with my team to devel
 * Utilizing for-loops, industry standard train-test splits, and Mean Squared Error (MSE) calculations to determine highest performing models.
 * Visualizing model strength through MSE calculations and residual plots using ggplot2 packages.
 * A written report and presentation summarizing the key findings to a senior data scientist at Duke Energy.
-* Some visuals created with ggplot2:
 
 ### Scatter plot of customer kWh usage by outdoor temperature with seasons
 ![](Portoflio images/customer scatter.jpg)
 
 ### Residual plot and MSE distribution for linear model
 ![](Portoflio images/lm residual plot.jpg) ![](Portoflio images/lm mse.jpg)
+
+### Residual plot and MSE distribution for cube root model
+![](Portoflio images/cubrt residual and mse.jpg)
 
 ## [Ace Industrial Supply: Data Copying and Formatting Automation (Excel VBA)](https://github.com/ddemo829/Ace-Industrial-Supply-Data-Automation-VBA)
 My work experience with Ace Industrial Supply involved programming Excel macros in VBA in order to efficiently copy and reformat data into a readable format for databases. This project involved:
