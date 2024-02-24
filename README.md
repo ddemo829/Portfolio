@@ -16,7 +16,7 @@ My work experience with Duke Energy involved collaborating with my team to devel
 ![](Portoflio images/customer scatter.jpg)
 
 ### Residual plot for linear model
-![](Portoflio images/lm residual plot.jpg)
+![](Portoflio images/lm residual plot.jpg)                               ![](Portoflio images/lm mse.jpg)
 
 ## [Ace Industrial Supply: Data Copying and Formatting Automation (Excel VBA)](https://github.com/ddemo829/Ace-Industrial-Supply-Data-Automation-VBA)
 My work experience with Ace Industrial Supply involved programming Excel macros in VBA in order to efficiently copy and reformat data into a readable format for databases. This project involved:
