@@ -30,9 +30,11 @@ My work experience with Ace Industrial Supply involved programming Excel macros 
 
 ### Messy data → formatted clean data
 <p align="center">
- <img src="Portoflio images/ACE messy data.jpg" width="300" Height="400"> 
+ <img src="Portoflio images/ACE messy data.jpg" width="300" Height="250"> 
  <img src="Portoflio images/ACE clean data.jpg">
 </p>  
+
+### Screen recording of macro here
 
 
 ## [The Effects of Visual and Auditory Cues on Human Reaction Time (SAS)](https://github.com/ddemo829/The-Effects-of-Visual-and-Auditory-Cues-on-Human-Reaction-Time-SAS)
