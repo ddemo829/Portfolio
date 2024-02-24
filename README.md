@@ -19,5 +19,5 @@ My work experience with Ace Industrial Supply involved programming Excel macros 
 * Testing out smaller, less complex macros to ensure copy and formatting accuracy of messy data before final implementation.
 * Delivering exported data to supervisor.
 
-## [The-Effects-of-Visual-and-Auditory-Cues-on-Human-Reaction-Time-SAS](https://github.com/ddemo829/The-Effects-of-Visual-and-Auditory-Cues-on-Human-Reaction-Time-SAS)
+## [The Effects of Visual and Auditory Cues on Human Reaction Time (SAS)](https://github.com/ddemo829/The-Effects-of-Visual-and-Auditory-Cues-on-Human-Reaction-Time-SAS)
 
