@@ -17,7 +17,7 @@ My work experience with Duke Energy involved collaborating with my team to devel
 ### Residual plot and MSE distribution for linear model
 ![](Portoflio images/lm residual plot.jpg) ![](Portoflio images/lm mse.jpg)
 
-### Residual plot and MSE distribution for cube root model
+### Residual plot and MSE distribution for cube root model (summer)
 ![](Portoflio images/cubrt residual and mse.jpg)
 
 ## [Ace Industrial Supply: Data Copying and Formatting Automation (Excel VBA)](https://github.com/ddemo829/Ace-Industrial-Supply-Data-Automation-VBA)
