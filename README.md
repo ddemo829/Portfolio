@@ -1,7 +1,7 @@
 # Portfolio
 This portfolio includes a variety of undergraduate, personal, and professional projects.
 
-## [Duke Energy: Statistical Modeling For Customer Energy Usage (R)](https://github.com/ddemo829/Duke-Energy-Statistical-Modeling-R)
+## [Duke Energy: Statistical Modeling for Customer Energy Usage (R)](https://github.com/ddemo829/Duke-Energy-Statistical-Modeling-R)
 My work experience with Duke Energy involved collaborating with my team to develop statistical models for approximately 200 of Duke Energy's customers (~8,600 observations per customer; ~1,700,000 observations total) around the state of North Carolina in order to target inefficient HVAC systems. This project (written in R) involved:
 
 * Modeling hourly customer kWh usage between September 2021 and September 2022 against key explanatory variables such as outdoor temperature and date-time, along with a variety of variable transformations.
