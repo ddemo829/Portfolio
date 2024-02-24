@@ -29,10 +29,10 @@ My work experience with Ace Industrial Supply involved programming Excel macros 
 * Delivering exported data to supervisor.
 
 ### Messy data → formatted clean data
-|-------------------------------------------------------------|-------------------------------------------------|
-| <img src="Portoflio images/ACE messy data.jpg" width="300"> | <img src="Portoflio images/ACE clean data.jpg"> |
- 
-  
+<p align="center">
+ <img src="Portoflio images/ACE messy data.jpg" width="300" Height="400"> 
+ <img src="Portoflio images/ACE clean data.jpg">
+</p>  
 
 
 ## [The Effects of Visual and Auditory Cues on Human Reaction Time (SAS)](https://github.com/ddemo829/The-Effects-of-Visual-and-Auditory-Cues-on-Human-Reaction-Time-SAS)
