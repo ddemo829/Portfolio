@@ -11,6 +11,7 @@ My work experience with Duke Energy involved collaborating with my team to devel
 * Visualizing model strength through MSE calculations and residual plots using ggplot2 packages.
 * A written report and presentation summarizing the key findings to a senior data scientist at Duke Energy.
 * Some visuals created with ggplot2:
+
 ![lm residual](Portoflio images/lm residual plot.jpg)
 
 ## [Ace Industrial Supply: Data Copying and Formatting Automation (Excel VBA)](https://github.com/ddemo829/Ace-Industrial-Supply-Data-Automation-VBA)
