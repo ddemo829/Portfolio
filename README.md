@@ -14,7 +14,7 @@ My work experience with Duke Energy involved collaborating with my team to devel
 ## [Ace Industrial Supply: Data Copying and Formatting Automation (Excel VBA)](https://github.com/ddemo829/Ace-Industrial-Supply-Data-Automation-VBA)
 My work experience with Ace Industrial Supply involved programming Excel macros in VBA in order to efficiently copy and reformat data into a readable format for databases. This project involved:
 
-* Seeking consistent structure of messy data to brainstorm potential areas for automation.
+* Seeking a consistent structure of messy data to brainstorm potential areas for automation.
 * Writing versatile code that accounts for a variety of inconsistent formats and structures.
 * Testing out smaller, less complex macros to ensure copy and formatting accuracy of messy data before final implementation.
 * Delivering exported data to supervisor.
