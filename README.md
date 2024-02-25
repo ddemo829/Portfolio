@@ -44,3 +44,9 @@ The goal of this undergraduate project for my team and I was to showcase our und
 * Interpreting ANOVA F statistic, family wise confidence intervals, and contrasts.
 * In a presentation, explaining the complexities of experimental design to a non-technical audience.
 
+### Decomposition of variance and ANOVA table results
+<p align="center">
+ <img src="Portoflio images/STS3250 decomp.jpg"> 
+ <img src="Portoflio images/STS3250 Anova table.jpg">
+</p>  
+
