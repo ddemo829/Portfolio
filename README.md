@@ -47,6 +47,6 @@ The goal of this undergraduate project for my team and I was to showcase our und
 ### Decomposition of variance and ANOVA table results
 <p align="center">
  <img src="Portoflio images/STS3250 decomp.jpg" width="300"> 
- <img src="Portoflio images/STS3250 Anova table.jpg" width="375" height="200">
+ <img src="Portoflio images/STS3250 Anova table.jpg" width="375" height="110">
 </p>  
 
