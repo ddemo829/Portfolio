@@ -4,7 +4,7 @@ This portfolio includes a variety of undergraduate, personal, and professional p
 ## [Electric Vehicle Population Analysis (SQL, Tableau)](https://github.com/ddemo829/Electric-Vehicle-Population-Analysis-SQL-Tableau-)
 This personal project is an exploratory analysis of Washington state's electric vehicle population. The 2024 dataset comes from Washington state's [Department of Licensing](https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2/about_data) and includes a variety of columns, such as count of electric vehicles, electric vehicle types, electric vehicle range, and electric vehicle manufacturing retail price. This project involved:
 
-* Utilizing SQL (PostgreSQL) to organze data into related tables to improve query performance and data integrity.
+* Utilizing SQL (PostgreSQL) to organize data into related tables to improve query performance and data integrity.
 * Cleaned and transformed data using string functions, aggregate functions, and filters.
 * Loaded and visualized data in Tableau to display an overview of electric vehicle statistics in WA state.
 
