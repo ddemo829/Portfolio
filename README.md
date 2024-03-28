@@ -9,7 +9,7 @@ This personal project is an exploratory analysis of Washington state's electric 
 * Loaded and visualized data in Tableau to display an overview of electric vehicle statistics in WA state.
 
 ### Tableau Dashboard of Electric Vehicle Population in Washington State
-![](Portoflio )
+![](Portoflio images/EVP Dashboard.jpg)
 
 ## [Duke Energy: Statistical Modeling for Customer Energy Usage (R)](https://github.com/ddemo829/Duke-Energy-Statistical-Modeling-R)
 My work experience with Duke Energy involved collaborating with my team to develop statistical models for approximately 200 of Duke Energy's customers (~8,600 observations per customer; ~1,700,000 observations total) around the state of North Carolina in order to target inefficient HVAC systems. This project (written in R) involved:
