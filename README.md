@@ -11,6 +11,7 @@ This personal project is an exploratory analysis of Washington state's electric 
 
 ### Tableau Dashboard of Electric Vehicle Population in Washington State
 ![](Portoflio images/EVP Dashboard.jpg)
+### Link to [interactive dashboard](https://public.tableau.com/app/profile/dylan.demo/viz/project_17099303425390/Dashboard1)
 
 ## [Duke Energy: Statistical Modeling for Customer Energy Usage (R)](https://github.com/ddemo829/Duke-Energy-Statistical-Modeling-R)
 My work experience with Duke Energy involved collaborating with my team to develop statistical models for approximately 200 of Duke Energy's customers (~8,600 observations per customer; ~1,700,000 observations total) around the state of North Carolina in order to target inefficient HVAC systems. This project (written in R) involved:
@@ -45,7 +46,7 @@ My work experience with Ace Industrial Supply involved programming Excel macros 
  <img src="Portoflio images/ACE clean data.jpg">
 </p>  
 
-### Screen recording of macro [here](https://youtu.be/yYXebG6os84)
+### Link to [screen recording of macro](https://youtu.be/yYXebG6os84)
 
 
 ## [The Effects of Visual and Auditory Cues on Human Reaction Time (SAS)](https://github.com/ddemo829/The-Effects-of-Visual-and-Auditory-Cues-on-Human-Reaction-Time-SAS)
